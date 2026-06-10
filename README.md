@@ -28,15 +28,13 @@ A lightweight **port scan detection tool** built in Python using **Scapy**. It m
 Clone the repository:
 
 ```bash
-git clone https://github.com/nezuk0x0/port-scan-detector.git
-cd port-scan-detector
+git clone https://github.com/nezuk0x0/Port-Scan-Detector.git
+cd Port-Scan-Detector
 ```
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
+
 
 >  **Scapy needs admin/root privileges to sniff packets.**
 > - **Linux/Mac:** run with `sudo`
